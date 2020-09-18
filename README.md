@@ -1,2 +1,4 @@
 # Excel-Challenge
-Rutgers Bootcamp excel analysis with kickstarter data set.
+Analyzing trends of kickstarter, using data within an Excel file.
+
+#Resources
