@@ -1,4 +1,4 @@
 # Excel-Challenge
-Analyzing trends of kickstarter, using data within an Excel file.
+Analyze an excel file containing data involving the company kickstarter, using pivot tables and statistical analysis. With the tools given, gain insight and identify trends that occur with kickstarters. 
 
 # Resources
